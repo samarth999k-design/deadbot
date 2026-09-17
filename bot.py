@@ -9,7 +9,7 @@ from telebot import types, util
 # ==============================================================================
 # 🔑 BOT TOKEN (Aapka Token Yahan Set Kar Diya Gaya Hai)
 # ==============================================================================
-BOT_TOKEN = "8932861407:AAELDxW6i0xrZfU9Y8o2dylJU4jlmX-glMM"
+BOT_TOKEN = "8815378095:AAH5IOfoAalhGxB9oDzWFbuHbzSDVsaG1BY"
 # ==============================================================================
 
 # Logging Setup
